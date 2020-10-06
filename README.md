@@ -10,6 +10,9 @@ https://devtribe.ru/p/unreal-engine/27-05-2019-vnedrenie-steamworks-sdk-v-unreal
 ue4-style-guide
 https://github.com/CosmoMyzrailGorynych/ue4-style-guide-rus#2.5
 
+itch.io
+https://72gsir.itch.io/steam-logic-for-game
+
 ![steam01](https://user-images.githubusercontent.com/36669204/95173213-0cd06a80-07c1-11eb-9bf8-81ffa945273e.png)
 ![steam02](https://user-images.githubusercontent.com/36669204/95173219-0e019780-07c1-11eb-864d-65e2a2cb54c8.png)
 ![steam03](https://user-images.githubusercontent.com/36669204/95173221-0e019780-07c1-11eb-9cc2-ef24155d7459.png)
